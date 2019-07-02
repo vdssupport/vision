@@ -3,7 +3,7 @@
 {{Color_1_Shade}}: a30028
 {{Color_2}}: 5f676f
 {{Color_2_Tint}}: e3e4e5
-{{Logo_URL}}: sharptopco.github.io/cloudcard-custom-assets/organizations/Rutgers/rutgers-logo-100 - Edited.png
+{{Logo_URL}}: vdssupport.github.io/vision/rutgers-logo-100 - Edited.png
 */
 
 html {
@@ -140,5 +140,9 @@ table td {
 }
 
 button.download_button {
+    display: none;
+}
+
+a.sign-out {
     display: none;
 }
